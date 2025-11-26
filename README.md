@@ -1,5 +1,15 @@
+<div align="center">
+
 # 🎓 Student Marking System  
-A complete Java Servlet + JSP + MySQL based web application for managing and viewing student academic records.
+### A Java Servlet + JSP + MySQL Based Result Management Web Application
+
+<img src="https://img.shields.io/badge/Java-Servlets-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/JSP-Dynamic%20Pages-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-Database-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Tomcat-Server-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML-CSS-brightgreen?style=for-the-badge">
+
+</div>
 
 ---
 
